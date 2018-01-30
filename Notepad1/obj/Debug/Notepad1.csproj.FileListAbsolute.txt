@@ -1,0 +1,21 @@
+C:\Users\felipe.reis\source\repos\Notepad1\Notepad1\bin\Debug\Notepad1.exe.config
+C:\Users\felipe.reis\source\repos\Notepad1\Notepad1\bin\Debug\Notepad1.exe
+C:\Users\felipe.reis\source\repos\Notepad1\Notepad1\bin\Debug\Notepad1.pdb
+C:\Users\felipe.reis\source\repos\Notepad1\Notepad1\obj\Debug\Notepad1.csprojResolveAssemblyReference.cache
+C:\Users\felipe.reis\source\repos\Notepad1\Notepad1\obj\Debug\Notepad1.Form1.resources
+C:\Users\felipe.reis\source\repos\Notepad1\Notepad1\obj\Debug\Notepad1.Properties.Resources.resources
+C:\Users\felipe.reis\source\repos\Notepad1\Notepad1\obj\Debug\Notepad1.csproj.GenerateResource.Cache
+C:\Users\felipe.reis\source\repos\Notepad1\Notepad1\obj\Debug\Notepad1.csproj.CoreCompileInputs.cache
+C:\Users\felipe.reis\source\repos\Notepad1\Notepad1\obj\Debug\Notepad1.exe
+C:\Users\felipe.reis\source\repos\Notepad1\Notepad1\obj\Debug\Notepad1.pdb
+C:\Users\felip\OneDrive\Documentos\Visual Studio 2017\Projects\Notepad1\Notepad1\bin\Debug\Notepad1.exe.config
+C:\Users\felip\OneDrive\Documentos\Visual Studio 2017\Projects\Notepad1\Notepad1\bin\Debug\Notepad1.exe
+C:\Users\felip\OneDrive\Documentos\Visual Studio 2017\Projects\Notepad1\Notepad1\bin\Debug\Notepad1.pdb
+C:\Users\felip\OneDrive\Documentos\Visual Studio 2017\Projects\Notepad1\Notepad1\obj\Debug\Notepad1.csprojResolveAssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\Visual Studio 2017\Projects\Notepad1\Notepad1\obj\Debug\Notepad1.Form1.resources
+C:\Users\felip\OneDrive\Documentos\Visual Studio 2017\Projects\Notepad1\Notepad1\obj\Debug\Notepad1.Properties.Resources.resources
+C:\Users\felip\OneDrive\Documentos\Visual Studio 2017\Projects\Notepad1\Notepad1\obj\Debug\Notepad1.csproj.GenerateResource.Cache
+C:\Users\felip\OneDrive\Documentos\Visual Studio 2017\Projects\Notepad1\Notepad1\obj\Debug\Notepad1.exe
+C:\Users\felip\OneDrive\Documentos\Visual Studio 2017\Projects\Notepad1\Notepad1\obj\Debug\Notepad1.pdb
+C:\Users\felipe.reis\source\repos\Notepad1\Notepad1\bin\Debug\Notepad1DB.mdf
+C:\Users\felipe.reis\source\repos\Notepad1\Notepad1\bin\Debug\Notepad1DB_log.ldf
